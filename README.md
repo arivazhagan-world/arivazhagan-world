@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arivazhagan
-- 👀 I’m interested in VLSI,VERILOG
-- 🌱 I’m currently learning UI/UX,VLSI
-- 💞️ I’m looking to collaborate on Figma and Vlsi projects
+- 👀 I’m interested in Embedded Systems and Vlsi
 - 📫 How to reach me linkedIn-Arivazhagan R
 - 😄 Pronouns: He/Him
 
