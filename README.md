@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arivazhagan
-- 👀 I’m interested in Embedded Systems and Vlsi
+- 👋 Hi, I’m Arivazhagan R
+- 👀 I’m a Hardware Designer 
 - 📫 How to reach me linkedIn-Arivazhagan R
 - 😄 Pronouns: He/Him
 
